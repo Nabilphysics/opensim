@@ -13,9 +13,9 @@ The device records `.sto` files directly to the microSD card, supports **dynamic
 
 ## Contributors
 
-- **Syed Razwanul Haque**
-- **Nathan Jones**
-PhD Student, Oregon State University, USA
+- **Syed Razwanul Haque**, Robotics PhD Student, Oregon State University, USA
+- **Nathan Jones**, Robotics PhD Student, Oregon State University, USA
+
 ---
 
 ## Project Highlights
