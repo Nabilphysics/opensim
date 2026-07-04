@@ -1,0 +1,6 @@
+# ESP32-C6 OpenSim IMU configuration
+# format: channel,segment_name
+0,humerus_r_imu
+1,radius_r_imu
+2,hand_r_imu
+3,torso_imu
